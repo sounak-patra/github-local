@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 welcome
+=======
+WELCOME TO GITHUB
+>>>>>>> int
