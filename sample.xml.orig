@@ -2,5 +2,9 @@
   <to>Roy</to>
   <from>Sounak</from>
   <heading>Reminder</heading>
+<<<<<<< HEAD
   <body>HELLO!!Don't forget me this weekend!</body>
+=======
+  <body>Don't forget me this weekend!I am coming..</body>
+>>>>>>> modified xml
 </note>
