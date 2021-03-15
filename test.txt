@@ -1,5 +1,0 @@
-hello
-welcome
-WELCOME TO GITHUB
-rebase
-test..
